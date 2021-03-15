@@ -1,6 +1,7 @@
 ---
 title: Joe Crawford
-role: Research at the intersection of plants, genetics, and junk engineering
+role: Plant physiology research at the intersection of photosynthesis, genetics,
+  and junk engineering
 avatar_filename: 01c640ab5bef4b6b05c2321ab09b874e1526fcb91a.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
